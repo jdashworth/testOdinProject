@@ -1,0 +1,1 @@
+This is an edit of the txt and a change of the file name got the GitHub exercise in the Odin Project.
